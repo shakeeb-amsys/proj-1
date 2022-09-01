@@ -1,0 +1,2 @@
+1.This is Git Project - ver1
+2.Code added by VS-Code -ver2
